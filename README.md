@@ -1,1 +1,0 @@
-# hacktober22
